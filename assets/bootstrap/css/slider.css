@@ -1,5 +1,5 @@
 .scroll {
-  width:1200px;
+  width:100%;
   white-space: nowrap;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
